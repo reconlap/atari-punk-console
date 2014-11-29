@@ -1,0 +1,115 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Sat 29 Nov 2014 03:24:05 PM GMT
+
+BeginCmp
+TimeStamp = /54734E98;
+Reference = C1;
+ValeurCmp = 0.01uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54734EA7;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5473695E;
+Reference = C3;
+ValeurCmp = 10uF;
+IdModule  = C2V8;
+EndCmp
+
+BeginCmp
+TimeStamp = /54734FEF;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54735AA5;
+Reference = J1;
+ValeurCmp = JACK_2P;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54735AB4;
+Reference = J2;
+ValeurCmp = JACK_2P;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54735A32;
+Reference = J3;
+ValeurCmp = JACK_2P;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /547484FD;
+Reference = P9v1;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54734FFE;
+Reference = R1;
+ValeurCmp = 470;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54734EC5;
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54734FBB;
+Reference = RV1;
+ValeurCmp = 470k;
+IdModule  = PINHEAD1-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54734FCA;
+Reference = RV2;
+ValeurCmp = 470k;
+IdModule  = PINHEAD1-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54734FD9;
+Reference = RV3;
+ValeurCmp = 100k;
+IdModule  = PINHEAD1-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54735021;
+Reference = SW1;
+ValeurCmp = DUAL_SWITCH_INV;
+IdModule  = PINHEAD1-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54734E4F;
+Reference = U1;
+ValeurCmp = LM555N;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /54734E5E;
+Reference = U2;
+ValeurCmp = LM555N;
+IdModule  = DIP-8__300;
+EndCmp
+
+EndListe
