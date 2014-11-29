@@ -1,6 +1,6 @@
 ## Synopsis
 
-The source files I used to creating a Atari Punk Console. Mainly covers the creation of a singled sided PCB design that uses two 555 IC timers. If you are wondering what a Atari Punk Console is you can find out by visting http://www.ataripunkconsole.com/ 
+The source files I used to creating a Atari Punk Console. Mainly covers the creation of a singled sided PCB design that uses two 555 IC timers. If you are wondering what a Atari Punk Console is you can find out by visiting http://www.ataripunkconsole.com/ 
 
 ## Motivation
 
@@ -9,7 +9,7 @@ The main motivation was to learn how to layout and produce PCB designs to my spe
 
 ## Contributors
 
-My thanks go to Forrest M. Mims III and for the orginal design. janw for the design with the added volume control that I basied my console on (http://www.instructables.com/id/Voltage-Controlable-Atari-Punk-Console/step2/The-circuit/). 
+My thanks go to Forrest M. Mims III and for the original design. janw for the design with the added volume control that I based my console on (http://www.instructables.com/id/Voltage-Controlable-Atari-Punk-Console/step2/The-circuit/). 
 
 ## License
 
